@@ -3,7 +3,9 @@ Test images for PNG format, typically used to convert to other formats.
 
 You can visit/star/clone all the test images [repos at GitHub](https://github.com/test-images).
 
-Latest files are in [202105](./202105/202105.md)
+## History
+
+Latest files are in 👉 **[202105](./202105/202105.md)**
 
 ## License
 
